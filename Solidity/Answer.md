@@ -1,8 +1,10 @@
 #Answer
 
 1. 
-`pragma solidity ^0.8.4;
-contract Coin{}`
+`pragma solidity ^0.8.4;`
+
+`contract Coin{}`
+
 2. true
 3. false
 4. true
